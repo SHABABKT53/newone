@@ -1,0 +1,13 @@
+
+.icon-search:before { content: '\e800'; } /* '' */
+.icon-location:before { content: '\e801'; } /* '' */
+.icon-t-shirt:before { content: '\e802'; } /* '' */
+.icon-mobile:before { content: '\e803'; } /* '' */
+.icon-fast-food:before { content: '\e815'; } /* '' */
+.icon-grocery-store:before { content: '\e81e'; } /* '' */
+.icon-laptop:before { content: '\f109'; } /* '' */
+.icon-taxi:before { content: '\f1ba'; } /* '' */
+.icon-soccer-ball:before { content: '\f1e3'; } /* '' */
+.icon-heartbeat:before { content: '\f21e'; } /* '' */
+.icon-train:before { content: '\f238'; } /* '' */
+.icon-amazon:before { content: '\f270'; } /* '' */

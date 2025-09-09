@@ -1,0 +1,110 @@
+.one{
+	background: linear-gradient(135DEG,#0A0F3C,#2C5DA9,#C8DAF9);
+	width: 100%;
+	height: 600px;
+	border-radius: 40px;
+
+}
+.two{
+	padding: 10px 20px;
+	position: relative;
+
+	
+
+}
+*{
+	margin: 0px;
+	padding: 0px;
+	box-sizing: border-box;
+}
+.three{
+	list-style: none;
+	display: flex;
+	gap: 20px;
+	font-style: italic;
+	font-weight: bolder;
+	color:white;
+	float: right;
+	padding-top: 30px;
+	padding-right: 30px;
+	position: absolute;
+	top: 30px;
+	right: 0px;
+
+
+
+
+
+}
+.three li a{
+	color: white;
+	text-decoration: none;
+	transition:0.3s;
+	padding: 8px 12px 8px 12px;
+
+
+}
+
+.three li a:hover{
+	background-color: lightblue;
+	border-radius: 4px;
+
+}
+
+ body {
+  font-family: "Winky Rough", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+.webimg1{
+	display: inline-block;
+	width:210px;
+	height: 80px;
+	padding: 20PX 12PX;
+	margin: 20px 12px;
+	background: linear-gradient(45DEG,white,lightblue);
+	border-radius: 20px;
+	border: solid 2px;
+}
+.HOMEH2{
+	text-align: center;
+	font-size: 50px;
+	align-content: center;
+	color: white;
+
+
+}
+.HOMEH1{
+	text-align: center;
+	font-size: 80px;
+	align-content: center;
+	padding-top: 100px;
+	color: white;
+}
+
+#right{
+	float: right;
+	position: absolute;
+	
+	right: 0px;
+	bottom: 0px;
+}
+#pagetwo{
+	width: 100%;
+	height: 100vh;
+	background: linear-gradient(135DEG,#C8DAF9,#2C5DA9,#0A0F3C);
+	border-radius: 40px;
+}
+.pagetop{
+	text-align: center;
+	font-size: 25px;
+}
+.contant{
+	width: 100%;
+	height: 80vh;
+}
+.zz{
+	width: 100px;
+	height: 100px;
+}

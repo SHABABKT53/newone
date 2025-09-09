@@ -1,0 +1,82 @@
+{
+  "name": "",
+  "css_prefix_text": "icon-",
+  "css_use_suffix": false,
+  "hinting": true,
+  "units_per_em": 1000,
+  "ascent": 850,
+  "glyphs": [
+    {
+      "uid": "9dd9e835aebe1060ba7190ad2b2ed951",
+      "css": "search",
+      "code": 59392,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "22cfc7af2c4f158b37317c65c92b48c2",
+      "css": "location",
+      "code": 59393,
+      "src": "elusive"
+    },
+    {
+      "uid": "4df54de7f9081aefcc1476068d4464e9",
+      "css": "train",
+      "code": 62008,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "862d4faacb164c0412cb3249d43d5d39",
+      "css": "t-shirt",
+      "code": 59394,
+      "src": "linecons"
+    },
+    {
+      "uid": "efb5a384af4a5450b7c9acff76a85b8b",
+      "css": "amazon",
+      "code": 62064,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "767fede84586366cd7d6c835be745454",
+      "css": "mobile",
+      "code": 59395,
+      "src": "entypo"
+    },
+    {
+      "uid": "500fc1f109021e4b1de4deda2f7ed399",
+      "css": "laptop",
+      "code": 61705,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "d27bcf5c8638e4078aaadae1d49b6909",
+      "css": "fast-food",
+      "code": 59413,
+      "src": "maki"
+    },
+    {
+      "uid": "00341f8df1496285c31db5988db1d8b5",
+      "css": "grocery-store",
+      "code": 59422,
+      "src": "maki"
+    },
+    {
+      "uid": "d84a06c5ce6da9ebdc9b0a5cb94db4c4",
+      "css": "heartbeat",
+      "code": 61982,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "5eacf9f8805e2c0bc306dcd1e709db16",
+      "css": "taxi",
+      "code": 61882,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "cf62866c0cfe3dd14455b381c724f8e1",
+      "css": "soccer-ball",
+      "code": 61923,
+      "src": "fontawesome"
+    }
+  ]
+}
